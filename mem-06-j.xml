@@ -294,7 +294,9 @@ The title of the book may be a reference to the Twilight Zone episode "To Serve 
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{vo':v}, {woD:v}</column>
-      <column name="notes">This means to throw or hurl something like a projectile.[1, p.91]</column>
+      <column name="notes">This means to throw or hurl something like a projectile.[1, p.91]
+
+To juggle, that is, to throw objects into the air and catch them in a rhythmic pattern, is {jaDchu':v}.[2]</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -314,7 +316,7 @@ The title of the book may be a reference to the Twilight Zone episode "To Serve 
       <column name="search_tags_sv"></column>
       <column name="search_tags_ru"></column>
       <column name="search_tags_zh_HK"></column>
-      <column name="source">[1] {KGT:src}</column>
+      <column name="source">[1] {KGT:src}, [2] {Saarbrücken qepHom'a' 2016:src}</column>
     </table>
     <table name="mem">
       <column name="_id"></column>
@@ -335,7 +337,7 @@ The title of the book may be a reference to the Twilight Zone episode "To Serve 
       <column name="notes_sv"></column>
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
-      <column name="hidden_notes"></column>
+      <column name="hidden_notes">For another example where {-chu':v} on a verb of motion indicates a rhythmic pattern, see {lerchu':v}.</column>
       <column name="components">{jaD:v}, {-chu':v}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
@@ -979,7 +981,7 @@ For "days ago" and "days from now", see {Hu':n} and {leS:n}, respectively.</colu
       <column name="definition_zh_HK">斜率（數學項） [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{bo'ghey:n}</column>
+      <column name="see_also">{bo'ghey:n}, {lav:v}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -2253,7 +2255,7 @@ In addition to nouns, {je:sen:nolink} can also follow a verb. See {je:adv}.</col
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{ghevI':n}, {taS:n}</column>
-      <column name="notes">There is an idiom, {jeD; ghevI' rur}.</column>
+      <column name="notes">There is an idiom, {jeD; ghevI' rur@@jeD:v, ghevI':n, rur:v}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -2430,15 +2432,15 @@ In addition to nouns, {je:sen:nolink} can also follow a verb. See {je:adv}.</col
       <column name="synonyms"></column>
       <column name="antonyms">{jejHa':v}, {Qung:v}</column>
       <column name="see_also"></column>
-      <column name="notes">The idiomatic expression {jej pach} "the claw is sharp" means "the food is pungent (that is, good)".
+      <column name="notes">The idiomatic expression {jej pach@@jej:v, pach:n} "the claw is sharp" means "the food is pungent (that is, good)".
 
-There is also an idiom, {jej; Daqtagh rur}.</column>
+There is also an idiom, {jej; Daqtagh rur@@jej:v, Daqtagh:n, rur:v}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
-      <column name="notes_ru">Идиоматическое выражение {jej pach} "коготь острый" означает "еда острая (и это хорошо)".
+      <column name="notes_ru">Идиоматическое выражение {jej pach@@jej:v, pach:n} "коготь острый" означает "еда острая (и это хорошо)".
 
-Есть также идиома, {jej; Daqtagh rur}.</column>
+Есть также идиома, {jej; Daqtagh rur@@jej:v, Daqtagh:n, rur:v}.</column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
       <column name="components"></column>
@@ -3224,7 +3226,7 @@ This verb is used in Sonnet 116, where its explicit subject is {muD:n:nolink}.[2
       <column name="synonyms"></column>
       <column name="antonyms"></column>
       <column name="see_also">{'obmaQ:n}, {jey'naS ghoqwI':n}</column>
-      <column name="notes">There is an idiom, {yuD; jey'naS rur}.</column>
+      <column name="notes">There is an idiom, {yuD; jey'naS rur@@yuD:v, jey'naS:n, rur:v}.</column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
       <column name="notes_sv"></column>
@@ -3330,7 +3332,7 @@ This verb is used in Sonnet 116, where its explicit subject is {muD:n:nolink}.[2
       <column name="definition_zh_HK">餵（別人）、充實精神 [AUTOTRANSLATED]</column>
       <column name="synonyms"></column>
       <column name="antonyms"></column>
-      <column name="see_also">{Sop:v}, {Soj:n}, {qa':n}, {je':v:1}</column>
+      <column name="see_also">{Sop:v}, {Soj:n:1}, {qa':n}, {je':v:1}</column>
       <column name="notes"></column>
       <column name="notes_de"></column>
       <column name="notes_fa"></column>
@@ -3745,7 +3747,7 @@ The imperative verb prefix when {jIH:n:1h,nolink} is the object is {HI-:v:pref}.
       <column name="_id"></column>
       <column name="entry_name">jIl</column>
       <column name="part_of_speech">n</column>
-      <column name="definition">neighbour</column>
+      <column name="definition">neighbor</column>
       <column name="definition_de">Nachbar</column>
       <column name="definition_fa">همسایه [AUTOTRANSLATED]</column>
       <column name="definition_sv">granne</column>
@@ -3768,7 +3770,7 @@ The imperative verb prefix when {jIH:n:1h,nolink} is the object is {HI-:v:pref}.
       <column name="examples_sv"></column>
       <column name="examples_ru"></column>
       <column name="examples_zh_HK"></column>
-      <column name="search_tags"></column>
+      <column name="search_tags">neighbour</column>
       <column name="search_tags_de"></column>
       <column name="search_tags_fa"></column>
       <column name="search_tags_sv"></column>

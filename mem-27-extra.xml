@@ -521,7 +521,7 @@ To address a single person, say {qatlh choneH?:sen@@qatlh:ques, cho-:v, neH:v}</
       <column name="notes_ru"></column>
       <column name="notes_zh_HK"></column>
       <column name="hidden_notes"></column>
-      <column name="components">{yI-:v}, {ngaQ:v}, {-moH:v}</column>
+      <column name="components">{yI-:v}, {ngaQmoH:v:1}</column>
       <column name="examples"></column>
       <column name="examples_de"></column>
       <column name="examples_fa"></column>
@@ -3693,7 +3693,7 @@ The three arms of the {tIq'ghob:n:nolink} are said to represent honor, loyalty, 
     <table name="mem">
       <column name="_id"></column>
       <column name="entry_name">'eD</column>
-      <column name="part_of_speech">v:i,hyp</column>
+      <column name="part_of_speech">v:2,i,hyp</column>
       <column name="definition">be landed? be in the air? (aircraft)</column>
       <column name="definition_de">landen? starten? (Flugzeug)</column>
       <column name="definition_fa">بیفتد؟ در هوا باشد؟ (هواپیما) [AUTOTRANSLATED]</column>
